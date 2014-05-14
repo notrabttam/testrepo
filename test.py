@@ -1,1 +1,2 @@
-print("Octocat is THE best")
+while True:
+  print("Octocat is THE best")    
