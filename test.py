@@ -1,1 +1,1 @@
-print("Octocat is the best")
+print("Octocat is THE best")
